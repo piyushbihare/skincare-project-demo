@@ -27,19 +27,19 @@ The project focuses on providing a smooth shopping experience with user authenti
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home-page.jpg)
+![Home Page](screenshots/home-page.jpeg)
 
 ### 🛍️ Shop Page
-![Shop Page](screenshots/shop-page.jpg)
+![Shop Page](screenshots/shop-page.jpeg)
 
 ### 🔐 Login Page
-![Login](screenshots/login.jpg)
+![Login](screenshots/login.jpeg)
 
 ### 📝 Register Page
-![Register](screenshots/register.jpg)
+![Register](screenshots/register.jpeg)
 
 ### 📞 Contact Page
-![Contact](screenshots/contact.jpg)
+![Contact](screenshots/contact.jpeg)
 
 ---
 
